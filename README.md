@@ -1,5 +1,5 @@
 # Coupling fraction calculation
-<b>This script calculates the coupling fraction from raw read counts </b>
+<b>This script calculates the coupling fraction from raw read counts</b>
 <b>Author</b>: Mudra Hegde  
 <b>Email</b>: mhegde@broadinstitute.org  
 <b>Version: 1.0 </b> 
